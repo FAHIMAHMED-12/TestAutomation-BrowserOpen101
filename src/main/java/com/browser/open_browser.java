@@ -15,10 +15,10 @@ public class open_browser {
         //firefox_close();
         //edge_launch();
         //edge_close();
-        //opera_launch();
-        //open_website();
-        //duration();
-        //opera_close();
+        opera_launch();
+        open_website();
+        duration();
+        opera_close();
 
 
     }
